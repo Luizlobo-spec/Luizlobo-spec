@@ -4,7 +4,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luiz Antônio, tenho 21 anos e sou natural de Minas Gerais. Concluí um curso técnico em informática para internet em 2023. Atualmente, estou cursando Sistemas de informações. Sou apaixonada por programação e compartilho meus projetos aqui no github.
+Me chamo Luiz Antônio, tenho 21 anos e sou natural de Minas Gerais. Concluí um curso técnico em informática para internet em 2023. Atualmente, estou cursando Sistemas de informações. Sou apaixonado por programação e compartilho meus projetos aqui no github.
 
 <p align="left">
     <a href="https://github.com/Luizlobo-spec?tab=repositories&sort=stargazers">
@@ -49,7 +49,7 @@ Me chamo Luiz Antônio, tenho 21 anos e sou natural de Minas Gerais. Concluí um
     title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node.js/node.js-original.svg" 
 />
 <img 
     align="left" 
@@ -68,14 +68,7 @@ Me chamo Luiz Antônio, tenho 21 anos e sou natural de Minas Gerais. Concluí um
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
