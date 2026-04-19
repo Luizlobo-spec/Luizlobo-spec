@@ -45,11 +45,11 @@ Me chamo Luiz Antônio, tenho 21 anos e sou natural de Minas Gerais. Concluí um
 />
 <img 
     align="left" 
-    alt="js" 
-    title="js"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
