@@ -21,6 +21,7 @@ Me chamo Luiz Antônio, tenho 21 anos e sou natural de Minas Gerais. Concluí um
             src="https://custom-icon-badges.demolab.com/github/followers/Luizlobo-spec?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    
 </p>
 
 ---
@@ -93,3 +94,29 @@ Me chamo Luiz Antônio, tenho 21 anos e sou natural de Minas Gerais. Concluí um
   />
 
 </p>
+
+## 📌 Projetos em Destaque
+
+API chamada Imobiliária, com foco em boas práticas, organização de código e fundamentos sólidos de desenvolvimento backend.
+O sistema permite o gerenciamento de Imóveis, Agendamentos e Contratos, implementando operações completas de CRUD, além de contar com recursos essenciais para APIs modernas, como:
+
+ ✔️ Autenticação de usuários
+ ✔️ Paginação de resultados
+ ✔️ Filtros com Django Filters
+ ✔️ Banco de dados SQLite (configuração padrão)
+ ✔️ Estrutura modular de apps seguindo boas práticas do Django
+
+ - 🚀 Tecnologias: Python, Django
+ - 🔗 Repositório: https://github.com/Luizlobo-spec/Imobiliaria
+
+(Os demais projetos estão em desenvolvimento e podem ser acompanhados diretamente nos repositórios deste perfil.)
+
+## 🧠 Objetivo
+Busco oportunidades para atuar como desenvolvedor, aplicando boas práticas e evoluindo constantemente minhas habilidades técnicas.
+
+## 🌱 Em constante evolução
+Estou sempre buscando aprender novas tecnologias, melhorar e aprofundar meus projetos evoluindo como desenvolvedor, um passo de cada vez.
+
+## 🔗 Contato
+💼 LinkedIn: *www.linkedin.com/in/luiz-antônio-andrino-ba6471215*  
+📫 Email: *andrinolobo@gmail.com*
