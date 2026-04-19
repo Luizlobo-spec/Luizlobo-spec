@@ -92,8 +92,13 @@ Me chamo Luiz Antônio, tenho 21 anos e sou natural de Minas Gerais. Concluí um
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizlobo-spec&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+
+
+
+
+
 
 ## 📌 Projetos em Destaque
 
