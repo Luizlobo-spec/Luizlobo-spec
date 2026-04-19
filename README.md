@@ -95,10 +95,7 @@ Me chamo Luiz Antônio, tenho 21 anos e sou natural de Minas Gerais. Concluí um
 </p>
 
 
-
-
-
-
+<br clear="both"/>
 
 ## 📌 Projetos em Destaque
 
